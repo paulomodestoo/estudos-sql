@@ -1,2 +1,2 @@
-# estudos-sql
-Esse repositório é destinado as queries construídas em meus estudos independentes.
+# Scripts SQL
+Esse repositório é destinado aos scripts construídas em meus estudos independentes.
